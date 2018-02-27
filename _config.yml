@@ -3,7 +3,7 @@ title: v4vance
 email: jimv1.3@gmail.com
 description: The Jekyll version of the Highlights theme by HTML5 UP.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.v4vance.com" # the base hostname & protocol for your site
+url: "v4vance.github.io" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
